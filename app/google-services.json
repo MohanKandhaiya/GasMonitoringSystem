@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "221693011451",
+    "firebase_url": "https://gasmonitoringsystem.firebaseio.com",
+    "project_id": "gasmonitoringsystem",
+    "storage_bucket": "gasmonitoringsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221693011451:android:62338b021738db63",
+        "android_client_info": {
+          "package_name": "com.example.mohankandhaiya.gasmonitoringsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221693011451-mbbk0i2bm5c49d400nmat5dqtasnaka7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohankandhaiya.gasmonitoringsystem",
+            "certificate_hash": "ccd65e04e45268e290f791c1fd344e7129b02fbc"
+          }
+        },
+        {
+          "client_id": "221693011451-rajvp4es4dcithgptiqdhvbal7osh7du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnx_gppVomjNLUmRn_ywErQuXdLN29_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221693011451-rajvp4es4dcithgptiqdhvbal7osh7du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
